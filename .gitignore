@@ -1,0 +1,30 @@
+# база даних
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# env
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# logs
+*.log
+
+# system
+.DS_Store
+Thumbs.db
